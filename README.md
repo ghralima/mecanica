@@ -20,3 +20,6 @@
     
 ### Notebook: 1_5_2_MRU_Velocidade.ipynb
     1.5.2 - Velocidade em função do tempo no MRU.
+    
+### Notebook: 1_5_3_MRU_Exemplos.ipynb
+    1.5.3 - Exemplo.
