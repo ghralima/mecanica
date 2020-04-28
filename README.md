@@ -22,4 +22,11 @@
     1.5.2 - Velocidade em função do tempo no MRU.
     
 ### Notebook: 1_5_3_MRU_Exemplos.ipynb
-    1.5.3 - Exemplo.
+    1.5.3 - Exemplo;
+    1.5.4 - Resumo.
+
+### Notebook: 1_6_1_MRUV_Velocidade.ipynb
+1.6 - Movimento Retilíneo Uniformemente Variado (MRUV)
+    
+    1.6.1 - Velocidade em função do tempo no MRUV;
+    1.6.2 - Aceleração no MRUV.
