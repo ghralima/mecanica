@@ -30,3 +30,8 @@
     
     1.6.1 - Velocidade em função do tempo no MRUV;
     1.6.2 - Aceleração no MRUV.
+    
+### Notebook: 1_6_2_MRUV_Deslocamento.ipynb
+1.6 - Movimento Retilíneo Uniformemente Variado (MRUV)
+    
+    1.6.3 - Deslocamento no MRUV.
