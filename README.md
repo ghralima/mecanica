@@ -1,6 +1,7 @@
 # **Mecânica - Cinemática**
 
 ##  **Autor: Gustavo Henrique Reis de Araújo Lima (CEFET-MG)**
+
 ***
 ## Notebooks introdutórios sobre cinemática.
 
@@ -43,23 +44,35 @@ As bibliotecas *Julia* utilizadas foram:
     1.2.1 - Posição em função do tempo no MRU.
 
 ***
-### Notebook: 1_5_2_MRU_Velocidade.ipynb
-    1.5.2 - Velocidade em função do tempo no MRU.
+### **Notebook: 1_2_MRU_Parte_2.ipynb**
+    
+#### 1.2 - Movimento Retilíneo Uniforme (MRU)
+
+    1.2.2 - Velocidade em função do tempo no MRU.
 
 ***
-### Notebook: 1_5_3_MRU_Exemplos.ipynb
-    1.5.3 - Exemplo;
-    1.5.4 - Resumo.
+### **Notebook: 1_2_MRU_Parte_3.ipynb**
+
+#### 1.2 - Movimento Retilíneo Uniforme (MRU)
+
+    1.2.3 - Exemplo;
+    1.2.4 - Resumo.
 
 ***
-### Notebook: 1_6_1_MRUV_Velocidade.ipynb
-1.6 - Movimento Retilíneo Uniformemente Variado (MRUV)
+### **Notebook: 1_3_MRUV_Parte_1.ipynb**
+
+#### 1.3 - Movimento Retilíneo Uniformemente Variado (MRUV)
     
-    1.6.1 - Velocidade em função do tempo no MRUV;
-    1.6.2 - Aceleração no MRUV.
+    1.3.1 - Velocidade em função do tempo no MRUV;
+    1.3.2 - Aceleração no MRUV.
     
 ***
-### Notebook: 1_6_2_MRUV_Deslocamento.ipynb
-1.6 - Movimento Retilíneo Uniformemente Variado (MRUV)
+### **Notebook: 1_3_MRUV_Parte_2.ipynb**
+
+#### 1.3 - Movimento Retilíneo Uniformemente Variado (MRUV)
     
-    1.6.3 - Deslocamento no MRUV.
+    1.3.3 - Deslocamento no MRUV;
+    1.3.4 - Outro exemplos;
+    1.3.5 - Equação de Torricelli.
+
+***
