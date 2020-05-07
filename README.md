@@ -76,3 +76,10 @@ As bibliotecas *Julia* utilizadas foram:
     1.3.5 - Equação de Torricelli.
 
 ***
+### **Notebook: 1_3_MRUV_Parte_3.ipynb**
+
+#### 1.3 - Movimento Retilíneo Uniformemente Variado (MRUV)
+    
+    1.3.6 - Queda-livre;
+    1.3.7 - Resumo - MRUV.
+***
