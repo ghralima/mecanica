@@ -83,3 +83,10 @@ As bibliotecas *Julia* utilizadas foram:
     1.3.6 - Queda-livre;
     1.3.7 - Resumo - MRUV.
 ***
+### **Notebook: 1_4_Vetores_Parte_1.ipynb**
+
+#### 1.4 - Vetores
+
+    1.4.1 - Representação vetorial;
+    1.4.2 - Soma de vetores.
+***
