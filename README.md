@@ -87,6 +87,14 @@ As bibliotecas *Julia* utilizadas foram:
 
 #### 1.4 - Vetores
 
-    1.4.1 - Representação vetorial;
-    1.4.2 - Soma de vetores.
+    1.4.1 - Relações trigonométricas no triângulo retângulo
+    1.4.2 - Representação vetorial;
+    1.4.3 - Soma de vetores.
+***
+### **Notebook: 1_4_Vetores_Parte_2.ipynb**
+
+#### 1.4 - Vetores
+
+    1.4.4 - Multiplicação de um vetor por um escalar;
+    1.4.5 - Decomposição vetorial.
 ***
