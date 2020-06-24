@@ -98,3 +98,9 @@ As bibliotecas *Julia* utilizadas foram:
     1.4.4 - Multiplicação de um vetor por um escalar;
     1.4.5 - Decomposição vetorial.
 ***
+### **Notebook: 1_4_Vetores_Parte_3.ipynb**
+
+#### 1.4 - Vetores
+
+    1.4.6 - Vetores na cinemática.
+***
